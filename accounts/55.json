@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peak-plating-325502",
+  "private_key_id": "8c275eb21b74c5508d4b3e2afa8431601314c54c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDLm08grv2+Qt0b\ny46mAh7Pe10DpiGntvJmREHXTFtwsR29Mc06UHfjS2u+h/ESYmX4M92AXVl2pfxx\nyV0n9VbsF8bSDDtMamx7BMIMgisBQNnsRxiabIsRweEc1MHJq+/C55fZVJLwmZAF\nLMAGlLEBkGMlywHVNFm46m1eKak79NEMRJcH/6Rcc0HEnhW/1glGAzR+KhgnJrYr\nCfw1eyN5DgV+xaZqHFzlVk92tOFzDe0yskah+O19a2TMS8TZHtBlwndMdrldLSVi\nIIflkdjRd/M4rRQ3HgfNPjeJStgwJA0K/PsbeypQZZQ7IPsv4uM2T4te6vU4e2yO\nBjKuza9fAgMBAAECggEADJd1REsuLBcMf4yOLNwStbgmX3Rlvm6E/SgZfkwdl5GM\nikfLLmENmQPwDN9xXDazoa7rcuXTA5BuVUcjuLXmg0FRLWpOPIKUZOM9cPKX4EL3\ndzJKZjpyO03nMxZBScyVTlNuQ6WEVNbaXkePNJj7fWJFj2/HlDzhk5sD2n/vFGMK\nOFYT92kzD6PWzgOMyDk4rqkz3yn9HV1khs1oHpbfBv3+Iu0lVlZTHFmuNFNXlfU/\nd99cAHn1KovR6qP4hAv1mz7tCGaAvLt12XZaCbfyyrlns0p6CdyJ3dKzPy4zfSt/\nHYqnvPoaBomrJdKcTfc/rMHq/PO3xP3P6e6S5eOy0QKBgQD4LqnKx2IA+z+S+fCG\nuv0hHIY6b+7Adx8zbACq+V1DVzAAvnyAw8D3iFIrHQH0bHxRZciEw641pYC5a3ki\nE8iWmFDPY2Nt6Tisnki0AdiOnfhj5YK0ehqIXGgFS0vNOyvLHb26U+euh8hzEhD8\nwtXOez2k6VuU/6DrwQGkQjnA2QKBgQDSBTBpf2OwFer0N5yk0xMWBqEitZ9wPFh+\nH32bAnMLJ61Py0Iei4i4AE5S1omvnLfLm3ehKQQwAs4nVpj1Qr+quaPqhuLXB01O\nMq58yIBZAINi0GggbXRzWpFH6iaKZYb880MWnCFI1XSJGIdtXfu73CFD0o4A/ZHf\nHpf9X1bO9wKBgAZ6uWYY5H8gEB3XNqdd1GP76ak26OXPdloSVMYh8oRij1dFodx+\nv9f2kCaeAEIQXwKFBMIqla7C3mR44NW57H+6BEoVzy+8agVfsIg6kBvRFf4NrObn\nVTAAMZsJxzXZeKA5640kyaSt2NbgPt9KeuiEISzgBssSDXJ6PH+8VuOpAoGATDfl\n4eOBYh4SLp8gEhEoFA5D3Dzdp/W+h8cV5nN1HM9BbnvtevhYna4+voFtZnYRnarG\nN46THnlmJ5Cd4iRfOq40dqCNIkxcGcz61f5N1f8Br5LCt0IByPtNTjQD2KYP3yzJ\nZCM1USFmMXrdayt4eCzjRaHcNy/PCJIpxqIa9vECgYA7r+hG0Ds7lj1fiZNftjjj\nvDdsdr89FXiiBxaFOj4PLmP6eLzePeyIAIEAH2rUpUVhSwc5LYZ+lA6ZYGvKfFqO\n16eXBuSQ0A07T7nZ+KlAqFyW4gEh6ZUAjfuucqYycJPOitgsEXma/+tJ6fijMz4P\nbzYWjec2IQjyBjUNid1geA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-g4o7pt66-w0qmsytn3af9yb141@peak-plating-325502.iam.gserviceaccount.com",
+  "client_id": "106779297424332247468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-g4o7pt66-w0qmsytn3af9yb141%40peak-plating-325502.iam.gserviceaccount.com"
+}
